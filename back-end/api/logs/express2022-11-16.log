@@ -1,2 +1,4 @@
 ::ffff:10.0.0.102 - - [16/Nov/2022:21:02:20 +0000] "GET /livros/ HTTP/1.1" 200 792 "-" "PostmanRuntime/7.29.2"
 ::ffff:10.0.0.102 - - [16/Nov/2022:21:02:25 +0000] "GET /livros/636d40fd6804f3895bb8394e HTTP/1.1" 200 164 "-" "PostmanRuntime/7.29.2"
+::1 - - [16/Nov/2022:21:10:08 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"
+::1 - - [16/Nov/2022:21:10:12 +0000] "GET /livros HTTP/1.1" 304 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"
