@@ -9,6 +9,7 @@ const livroSchema = new mongoose.Schema({
   favorito: { type: Boolean, required: true },
 });
 
+
 const livros = mongoose.model("livros", livroSchema);
 
 export default livros;
